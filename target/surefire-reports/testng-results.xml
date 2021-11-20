@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-20T18:41:07 IST" name="Test Suite-1" finished-at="2021-11-20T18:43:01 IST" duration-ms="114161">
+    <groups>
+    </groups>
+    <test started-at="2021-11-20T18:41:07 IST" name="Test Case-1" finished-at="2021-11-20T18:43:01 IST" duration-ms="114161">
+      <class name="TestCases.Test1">
+        <test-method signature="search()[pri:0, instance:TestCases.Test1@65f095f8]" started-at="2021-11-20T18:41:07 IST" name="search" finished-at="2021-11-20T18:41:47 IST" duration-ms="39407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- TestCases.Test1 -->
+      <class name="TestCases.Test2">
+        <test-method signature="eventsLink()[pri:0, instance:TestCases.Test2@1ba9117e]" started-at="2021-11-20T18:41:47 IST" name="eventsLink" finished-at="2021-11-20T18:42:24 IST" duration-ms="37106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eventsLink -->
+      </class> <!-- TestCases.Test2 -->
+      <class name="TestCases.Test3">
+        <test-method signature="citySearch()[pri:0, instance:TestCases.Test3@732c2a62]" started-at="2021-11-20T18:42:24 IST" name="citySearch" finished-at="2021-11-20T18:43:01 IST" duration-ms="37597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- citySearch -->
+      </class> <!-- TestCases.Test3 -->
+    </test> <!-- Test Case-1 -->
+  </suite> <!-- Test Suite-1 -->
+</testng-results>
