@@ -3,11 +3,21 @@
 <suite name="Failed suite [Test Suite-1]">
   <test thread-count="5" name="Test Case-1(failed)">
     <classes>
+      <class name="TestCases.Test3">
+        <methods>
+          <include name="citySearch"/>
+        </methods>
+      </class> <!-- TestCases.Test3 -->
       <class name="TestCases.Test2">
         <methods>
           <include name="eventsLink"/>
         </methods>
       </class> <!-- TestCases.Test2 -->
+      <class name="TestCases.Test1">
+        <methods>
+          <include name="search"/>
+        </methods>
+      </class> <!-- TestCases.Test1 -->
     </classes>
   </test> <!-- Test Case-1(failed) -->
 </suite> <!-- Failed suite [Test Suite-1] -->
